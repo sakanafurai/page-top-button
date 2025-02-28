@@ -1,0 +1,21 @@
+{
+	"plugin-data":
+	{
+		"name": "ページトップに戻るボタン",
+		"description": "「ページのトップに戻る」ボタンをページ右下に追加します。"
+	},
+	"button-apperance": "ボタンの見た目",
+	"button-shape": "ボタンの形状",
+	"squared": "四角形",
+	"corner-rounded": "角丸の四角形",
+	"rounded": "丸形",
+	"button-type": "ボタンのタイプ",
+	"normal": "通常",
+	"outlined": "枠線のみ",
+	"icon-shape": "アイコンの形状",
+	"chevron": "くの字型",
+	"arrow": "矢印",
+	"triangle": "三角",
+	"button-color": "ボタンの色",
+	"fade-out-effect-on-scroll": "スクロール時のフェードアウト効果"
+}

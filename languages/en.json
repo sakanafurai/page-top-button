@@ -1,0 +1,21 @@
+{
+	"plugin-data":
+	{
+		"name": "Back to page top button",
+		"description": "Adds a button to back to the top of page."
+	},
+	"button-apperance": "Button apperance",
+	"button-shape": "Button shape",
+	"squared": "Squared",
+	"corner-rounded": "Corner-rounded",
+	"rounded": "Rounded",
+	"button-type": "Button type",
+	"normal": "Normal",
+	"outlined": "Outlined",
+	"icon-shape": "Icon shape",
+	"chevron": "Chevron",
+	"arrow": "Arrow",
+	"triangle": "Triangle",
+	"button-color": "Button color",
+	"fade-out-effect-on-scroll": "Fade-out effect on scroll"
+}
