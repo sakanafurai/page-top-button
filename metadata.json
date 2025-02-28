@@ -1,10 +1,10 @@
 {
   "author": "sakanafurai",
-  "email": "",
-  "website": "",
-  "version": "2025-02-21-dev",
-  "releaseDate": "",
-  "license": "",
+  "email": "info@via.rossa.cc",
+  "website": "https://github.com/sakanafurai",
+  "version": "v1.0.0",
+  "releaseDate": "2025-02-28",
+  "license": "MIT",
   "compatible": "3.16.2",
   "notes": ""
 }
