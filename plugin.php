@@ -25,6 +25,7 @@ class pageTopButton extends Plugin {
 		$html .= '<div>';
 		$html .= '<label>'. $L->get('button-color') .'</label>';
 		$html .= '<input name="buttonColor" class="form-control" type="text" dir="auto" value="' . $this->getValue('buttonColor') . '" data-coloris>';
+		$html .= '</div>';
 
 		$html .= '<div>';
 		$html .= '<label>'. $L->get('button-shape') .'</label>';
